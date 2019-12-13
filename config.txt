@@ -1,0 +1,2 @@
+config común
+que pasa aqui
